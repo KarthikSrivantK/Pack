@@ -1,0 +1,23 @@
+{
+    "name": "ksk-themes",
+    "displayName": "KSK Themes",
+    "description": "This is cool",
+    "version": "0.0.1",
+    "publisher": "KarthikSrivantK",
+    "engines": {
+        "vscode": "^1.00.0"
+    },
+    "categories": [
+        "Extension Packs"
+        
+    ],
+    "repository": {
+        "type": "Git"
+        
+    },
+    "extensionPack": [ 
+        "karthiksrivantk.blue-black",
+        "karthiksrivantk.dark-theme",
+        "karthiksrivantk.light-theme"
+    ]
+}
